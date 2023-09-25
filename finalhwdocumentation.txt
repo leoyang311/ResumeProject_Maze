@@ -1,0 +1,16 @@
+Welcome to the Maze Game!
+
+To play/begin the test, click "Run Configurations" in the "Run New_configuration" drop-down menu
+and switch the main class to the Maze with the arguments set to ExamplesMaze and the game will begin!
+
+To move around the maze, use the arrow keys on your keyboard
+To reset the board, press r on your keyboard and a new board will appear
+
+As you move around the board, a light blue tile will fill the spaces that you have been through. When you go to the wrong way, the wrong steps will increase.
+
+If you press "d", it'll show you the solution using Depth-First and if you press "b" it'll show you the solution using Breadth-First
+
+At the bottom there will be a tracker of wrong steps made
+When you reach the end of the maze, a "You Win!" screen will appear
+
+Have fun!
