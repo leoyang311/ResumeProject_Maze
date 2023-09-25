@@ -1,7 +1,5 @@
 # Mazes
 
-**Collaborators**: Kimberly Nguyen, Thien Nguyen
-
 **Course Website**: https://course.ccs.neu.edu/cs2510/
 
 ## Introduction
@@ -72,12 +70,3 @@ properly. `search()` performs the search, and it takes in either a `Stack` or a
 fixes the edges of the player's current `Vertex` so that the player cannot walk
 through walls.
 
-## How to Run the Game
-1. Download Eclipse: https://www.eclipse.org/ide/
-2. Pull this repository and set [`EclipseWorkspace`](/EclipseWorkspace) as
-the workspace, or import [`Mazes`](/EclipseWorkspace/Mazes) into the workspace
-3. Import the two external `.jar` files in [`EclipseJars`](/EclipseJars) into
-the build path
-4. In the run configurations, set the main class as `tester.Main` and the
-program arguments as `ExamplesMaze`
-5. Run the program
